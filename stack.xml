@@ -1,0 +1,9 @@
+<stack>
+  <description brief="cob_canopen">cob_canopen</description>
+  <author>Maintained by Tobias Sing</author>
+  <license>LGPL</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cob_canopen</url>
+  <depend stack="ros" />
+
+</stack>
